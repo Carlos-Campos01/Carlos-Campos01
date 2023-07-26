@@ -4,9 +4,9 @@
 - 🎓💻 Estudo e Desenvolvo projetos Full Stack com PHP, Javascript, HTML, CSS
 
   <div>  
-   <a href="mailto:carlosdelimacampos01@gmail.com" target="_blank"><img align="center" alt="PHP" height="30"   
+   <a href="mailto:carlosdelimacampos01@gmail.com" target="_blank"><img align="center" alt="Gmail" height="30"   
     width="80"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-   <a href="https://www.linkedin.com/in/carlos-eduardo-de-lima-campos-b42212199" target="_blank"><img align="center" alt="PHP" height="30"   
+   <a href="https://www.linkedin.com/in/carlos-eduardo-de-lima-campos-b42212199" target="_blank"><img align="center" alt="Linkedin" height="30"   
     width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 ##
