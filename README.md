@@ -1,7 +1,7 @@
 ## Olá eu me chamo Carlos Campos 
-- 💻 Hoje trabalho como Analista de Sistemas a 1 ano
-- 🏫 🎓 Estudo Engenharia da Computação, Estou no 5º Semestre
-- 🎓💻 Estudo e Desenvolvo projetos Full Stack com PHP, Javascript, HTML, CSS
+- 💻 Atualmente trabalho como Analista de Sistemas a mais de 2 anos
+- 🏫 🎓 Estudo Engenharia da Computação, Estou no 7º Semestre
+- 🎓💻 Estudo e Desenvolvo projetos Full Stack com Javascript, HTML, CSS, Node.JS, React, Angular, Mysql
 
   <div>  
    <a href="mailto:carlosdelimacampos01@gmail.com" target="_blank"><img align="center" alt="Gmail" height="30"   
