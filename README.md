@@ -1,5 +1,5 @@
 ## Olá eu me chamo Carlos Campos 
-- 💻 Atualmente trabalho como Analista de Sistemas a mais de 2 anos
+- 💻 Atualmente trabalho como Analista de Sistemas a 3 anos
 - 🏫 🎓 Estudo Engenharia da Computação, Estou no 7º Semestre
 - 🎓💻 Estudo e Desenvolvo projetos Full Stack com Javascript, HTML, CSS, Node.JS, React, Angular, Mysql
 
