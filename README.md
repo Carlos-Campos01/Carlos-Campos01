@@ -1,6 +1,6 @@
 ## Olá eu me chamo Carlos Campos 
-- 💻 Atualmente trabalho como Analista de Sistemas a 3 anos
-- 🏫 🎓 Estudo Engenharia da Computação, Estou no 7º Semestre
+- 💻 Atualmente sou Product Owner. Profissional com experiência em análise de sistemas, gestão de projetos e metodologias ágeis (Scrum e Kanban), atuando como elo entre equipes técnicas e stakeholders para garantir entregas eficientes, inovadoras e alinhadas ao negócio. Com 4 anos atuando na área
+- 🏫 🎓 Estudo Engenharia da Computação, Estou no 9º Semestre
 - 🎓💻 Estudo e Desenvolvo projetos Full Stack com Java, Javascript, HTML, CSS, Node.JS, React, Angular, Mysql
 
   <div>  
